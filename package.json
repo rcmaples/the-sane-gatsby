@@ -1,0 +1,27 @@
+{
+  "name": "the-sane-gatsby",
+  "version": "0.1.0",
+  "description": "Sanity, Gatsby, and Netlify! Oh my!",
+  "main": ".",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcmaples/the-sane-gatsby.git"
+  },
+  "keywords": [
+    "Sanity",
+    "Gatsby",
+    "Netlify",
+    "sanity",
+    "gatsby",
+    "netlify"
+  ],
+  "author": "RC Maples",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcmaples/the-sane-gatsby/issues"
+  },
+  "homepage": "https://github.com/rcmaples/the-sane-gatsby#readme"
+}
